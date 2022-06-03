@@ -1,0 +1,15 @@
+* {
+    
+   align-items: center;
+   text-align: center;
+   
+}
+
+div{
+    position: relative;
+    border: 20px;
+    border-color: black;
+    background-color: lightslategrey;
+    margin: 10px;
+    
+}
